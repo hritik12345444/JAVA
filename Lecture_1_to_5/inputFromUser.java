@@ -24,7 +24,7 @@ public class inputFromUser {
 
         System.out.println(sentence);
         System.out.println("hello "+ name + ", your age is "+ age);
-        sc.close();
+        sc.close();   // last me close krna jaruri hai scanner ke object ko
     }
 }
 
