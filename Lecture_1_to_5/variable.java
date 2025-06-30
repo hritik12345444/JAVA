@@ -1,3 +1,4 @@
+package Lecture_1_to_5;
 // Declare meaningful variables of each type 
 public class variable {
     public static void main(String [] args){
