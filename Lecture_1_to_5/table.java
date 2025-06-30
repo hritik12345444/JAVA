@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class table {
     public static void main(String []args){
         Scanner sc = new Scanner(System.in);
-        System.out.println("Whose tale : ");
+        System.out.print("Whose tale : ");
         int tabl = sc.nextInt(); // integer input
 
         System.out.println(tabl * 1);
