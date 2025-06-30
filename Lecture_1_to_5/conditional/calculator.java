@@ -22,6 +22,8 @@ public class calculator {
             System.out.println("Mul : "+(a*b));
         }else if(ch == '/'){
             System.out.println("Div : " + (a / b));
+        }else if(ch == '%'){
+            System.out.println("Modu : " + a % b);
         }else{
             System.out.println("Invalid operator ");
         }
