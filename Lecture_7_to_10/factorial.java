@@ -1,3 +1,4 @@
+// factorial of a number 
 package Lecture_7_to_10;
 
 import java.util.Scanner;
