@@ -1,5 +1,5 @@
 // print table with using loop
-package Lecture_1_to_5;
+package Lecture_1_to_6;
 
 import java.util.Scanner;  
 

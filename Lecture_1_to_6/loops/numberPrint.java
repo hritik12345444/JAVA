@@ -1,5 +1,5 @@
 //Q1. print 0 to 10
-package Lecture_1_to_5.loops;
+package Lecture_1_to_6.loops;
 
 // public class numberPrint {
 //     public static void main(String[] args){

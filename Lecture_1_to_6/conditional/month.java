@@ -1,5 +1,5 @@
 //Enter the number of the month & print the name of the month. For eg - for 1 print january so on..
-package Lecture_1_to_5.conditional;
+package Lecture_1_to_6.conditional;
 
 import java.util.*;
 

@@ -1,6 +1,6 @@
 // print table
 
-package Lecture_1_to_5.loops;
+package Lecture_1_to_6.loops;
 
 import java.util.*;
 

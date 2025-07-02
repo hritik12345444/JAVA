@@ -1,5 +1,5 @@
 // take input from user
-package Lecture_1_to_5;
+package Lecture_1_to_6;
 
 import java.util.Scanner;  // input lene ke liye scanner ko import krna prta hai
 

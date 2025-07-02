@@ -1,5 +1,5 @@
 // take 3 number check which is greater
-package Lecture_1_to_5.conditional;
+package Lecture_1_to_6.conditional;
 
 import java.util.Scanner;
 

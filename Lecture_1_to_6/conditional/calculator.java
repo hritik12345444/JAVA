@@ -1,5 +1,5 @@
 //  Make a calculator. Take 2 number (a & b) from the user and an operations like + - * /
-package Lecture_1_to_5.conditional;
+package Lecture_1_to_6.conditional;
 
 import java.util.Scanner;
 

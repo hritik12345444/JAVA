@@ -4,7 +4,7 @@
 // 1 0 1
 // 0 1 0 1
 // 1 0 1 0 1
-package Lecture_1_to_5.loops.pattern;
+package Lecture_1_to_6.loops.pattern;
 
 import java.util.Scanner;
 
