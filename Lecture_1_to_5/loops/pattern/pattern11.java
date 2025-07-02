@@ -11,7 +11,7 @@ package Lecture_1_to_5.loops.pattern;
 
 import java.util.Scanner;
 
-public class patter11 {
+public class pattern11 {
     public static void main(String []args){
         Scanner sc = new Scanner(System.in);
 
