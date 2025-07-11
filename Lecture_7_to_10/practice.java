@@ -35,7 +35,7 @@ public class practice {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("enter n1 : ");
-        int n = sc.nextInt();
+        // int n = sc.nextInt();
         // System.out.println("enter num2 : ");
         // int n2 = sc.nextInt();
         // System.out.println("enter age : ");
