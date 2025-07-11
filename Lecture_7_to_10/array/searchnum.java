@@ -38,4 +38,5 @@ public class searchnum{
 
         sc.close();
     }
+    
 }
