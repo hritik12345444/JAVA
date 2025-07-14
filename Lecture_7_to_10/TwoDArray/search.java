@@ -32,7 +32,7 @@ public class search {
             for(int j = 0; j<colm; j++){
                 // System.out.print(arr[i][j] + " ");
                 if(arr[i][j] == x){
-                    System.out.println("number is found..... At index "+ i + " " + j);
+                    System.out.println("number is found..... At index "+ "[" + i +"]" + "[" + j +"]");
                     isFound = true;
                     break;
                 }
