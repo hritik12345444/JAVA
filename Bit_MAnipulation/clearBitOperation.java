@@ -7,7 +7,7 @@ public class clearBitOperation {
     public static void inBinaryPrint(int newNumber){
         // convert into binary number system
 
-        String binary = Integer.toBinaryString(newNumber);  // string me hi likhana prega kyuki by defalut java usse decimal number smjh leta hai
+        String binary = Integer.toBinaryString(newNumber);  //  string me hi likhana prega kyuki by defalut java usse decimal number smjh leta hai
         System.out.println(binary + " it is in binary ");
 
     }
