@@ -1,5 +1,5 @@
 // print sum of first n natural numbers
-package Sorting;
+package recursion;
 
 import java.util.Scanner;
 public class sumOfNatur {
