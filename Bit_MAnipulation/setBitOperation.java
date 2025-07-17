@@ -5,6 +5,12 @@
 package Bit_MAnipulation;
 
 public class setBitOperation {
+
+    public static void toBinaryPrint(int n){
+        String binary = Integer.toBinaryString(n);
+
+        System.out.println(binary + " : it is in binary ");
+    }
     public static void main(String[]args){
 
         int n = 5 ; // in binary = 0101 
@@ -14,5 +20,6 @@ public class setBitOperation {
 
         System.out.println(newNumber);
 
+        toBinaryPrint(newNumber);
     }    
 }
