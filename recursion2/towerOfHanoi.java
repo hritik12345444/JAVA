@@ -2,6 +2,8 @@
 // RULES:
 // 1. Only one disk trandfered in 1 step
 // 2. Smaller disks are always kept on top of larger disks
+
+// Explanation : isme sorce se (n-1) disk ko helper pe bhejh diya jata hai . Uske badh jo ek disk bacha hua hai sorce per usse direct sorce to destion dall diya jata hai . Aur fir jo helper tha usepe abhi n-1 disk hai to abb helper ko as a sorce mann lenge aur sorce ko as a helper mann lenge fir heper to source n-1 disk ko bhejh denge fir helper per 1 disk bach hoga usee direct distination per bhejh deng . (Jab ek hi disk ho to hmm jada kuch nhi krte hai bss direct sorce to destination per transfer krr dete hai).
 package recursion2;
 
 import java.util.Scanner;
