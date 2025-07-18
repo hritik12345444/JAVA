@@ -1,4 +1,4 @@
-// Find the 1st & last occurance of an element in string
+// Find the 1st & last occurance of an element in string using loop
 package recursion2;
 
 import java.util.Scanner;
