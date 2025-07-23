@@ -1,3 +1,4 @@
+// move all x to the end of the string
 package recursion2;
 
 public class movex {
