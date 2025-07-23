@@ -1,5 +1,6 @@
 // Remove duplicates in a string
 package recursion2;
+import java.util.Scanner;
 
 public class removeDup {
 
@@ -27,8 +28,14 @@ public class removeDup {
 
     }
     public static void main(String[] args) {
-        String str = "abbccda";
+
+        Scanner sc = new Scanner(System.in);
+        System.out.print("enter a string for remvoe duplicates :-  ");
+        String str = sc.nextLine();
+        // String str = "abbccda";
 
         removeDuplicates(str,0, "");
+
+        sc.close();
     }   
 }
